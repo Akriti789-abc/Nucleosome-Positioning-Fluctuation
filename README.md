@@ -3,10 +3,10 @@
 # Nucleosome-Positioning-Fluctuation
 
 ## Project Overview
-This project investigates how nucleosome positioning fluctuates around circadian clock genes in *Arabidopsis thaliana*. Using MNase-seq data, we analyze the occupancy patterns of nucleosomes around key circadian genes such as LHY and TOC1, providing insights into chromatin dynamics and temporal gene regulation.
+This project investigates how nucleosome positioning fluctuates around circadian clock genes in *Arabidopsis thaliana*. Using MNase-seq data, we analyze the occupancy patterns of nucleosomes around key circadian genes such as LHY, providing insights into chromatin dynamics and temporal gene regulation.
 
 ## Data
-- Gene coordinates: LHY, TOC1, and other circadian clock genes in Arabidopsis thaliana.
+- Gene coordinates: LHY, and other circadian clock genes in Arabidopsis thaliana.
 - Nucleosome positioning data: MNase-seq processed datasets (read frequency, fragment coordinates).
 
 ## Analysis
