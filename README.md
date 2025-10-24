@@ -1,7 +1,5 @@
-# ===== README.md creation cell =====
-
 # Content for README.md
-readme_text = """
+
 # Nucleosome-Positioning-Fluctuation
 
 ## Project Overview
@@ -33,9 +31,3 @@ Understanding nucleosome positioning dynamics helps explain temporal regulation 
 2. Upload your gene coordinates and MNase-seq nucleosome files into the `data/` folder.
 3. Run the Jupyter/Colab notebook to generate nucleosome occupancy plots and analyze fluctuations.
 """
-
-# Write the content to README.md
-with open("README.md", "w") as f:
-    f.write(readme_text)
-
-print("✅ README.md created successfully!")
